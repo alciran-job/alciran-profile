@@ -2,11 +2,11 @@
 
 - 💻 Estou atualmente cursando 2º período de TADS - UNOPAR/RN.
 - 🌱 Estou atualmente apredendo Análise de Dados com Python.
-- 👯 Estou procurando colaborar como Analista de Rede/Programador Front-End.
+- 💪🏼 Estou procurando colaborar como Analista de Rede/Programador Front-End.
 - 🤔 Estou procurando ajuda em js.
 - 📫 Como chegar até mim: redes sociais a baixo.
 - 😄 Apelido: Frazão.
-- ⚡ Curiosidades: músico nas horas vagas🎹.
+- ⚡ Curiosidade: músico nas horas vagas🎹.
 
 <div align="center">
   <a href="https://github.com/alciran-job">
