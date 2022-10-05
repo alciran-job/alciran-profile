@@ -5,6 +5,7 @@
 - 💪🏼 Estou procurando colaborar como Analista de Rede/Programador Front-End.
 - 🤔 Estou procurando ajuda em js.
 - 📫 Como chegar até mim: redes sociais a baixo.
+- 💝 Casado com a mulher mais linda do planeta
 - 😄 Apelido: Frazão.
 - ⚡ Curiosidade: músico nas horas vagas🎹.
 
