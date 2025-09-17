@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alciran Frazão 👋
 
-- 💻 Cursando 2º período de TADS - UNOPAR/RN.
-- 🌱 Estou atualmente apredendo Análise de Dados com Python.
+- 💻 Cursado TADS - UNOPAR/RN.
+- 🌱 Estou atualmente apredendo Análise de Dados com Python e Java pela Udemy.
 - 💪🏼 Estou procurando colaborar como Analista de Rede/Programador Front-End.
 - 🤔 Estou procurando ajuda em js.
 - 📫 Como chegar até mim: redes sociais a baixo.
